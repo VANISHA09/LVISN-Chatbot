@@ -1,0 +1,14 @@
+input:focus{
+    border: 1;
+    border: violet;
+    background: transparent;
+    color: black;
+}
+
+.message-comp{
+    background: black;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 5px;
+    color: white;
+}
